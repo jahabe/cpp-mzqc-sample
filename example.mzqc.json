@@ -1,0 +1,21 @@
+{
+  "mzQC": {
+    "version": "1.0.0",
+    "runQualities": [
+      {
+        "metadata": {
+          "label": "Jane_Run_1"
+        },
+        "qualityMetrics": [
+          {
+            "cvParameter": {
+              "name": "Signal to Noise Ratio",
+              "accession": "QC:4000053"
+            },
+            "unit": "dB"
+          }
+        ]
+      }
+    ]
+  }
+}
